@@ -14,7 +14,7 @@
 - jenisKelamin (String) -> menggunakan 2 RadioButton untuk button Laki-Laki dan perempuan lalu digabungkan menggunakan  buttonGroup, sehingga hanya bisa     memilih salah satu radioButton
 - Fakultas (String) -> menggunakan comboBox 
 
-### Alur
+### Alur :
 #### 1.Insert Data
 
 Berikut adalah langkah-langkah untuk memasukkan data:
@@ -56,7 +56,7 @@ Berikut adalah langkah-langkah untuk menghapus data:
 
 
 
-### Dokumetasi Program
+### Dokumetasi Program :
 
 - Insert Data
 
