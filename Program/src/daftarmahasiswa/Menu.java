@@ -278,7 +278,9 @@ public class Menu extends javax.swing.JFrame {
         GenderGroup.add(jRadioL);
         jRadioL.setText("Laki-Laki");
 
+        jFakultas.setBackground(new java.awt.Color(255, 255, 255));
         jFakultas.setFont(new java.awt.Font("Arial", 1, 11)); // NOI18N
+        jFakultas.setForeground(new java.awt.Color(255, 255, 255));
         jFakultas.setText("Fakultas");
 
         jcbFakultas.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "FPMIPA", "FPEB", "FPSD", "FPTK", "FPOK", "FIP", "FPIPS", "FPBS", " ", " ", " " }));
